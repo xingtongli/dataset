@@ -1,0 +1,5 @@
+classes = 47
+train = data/train.txt
+valid = data/test.txt
+names = data/sign.names
+backup = backup
